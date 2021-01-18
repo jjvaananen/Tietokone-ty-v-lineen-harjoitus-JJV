@@ -3,3 +3,4 @@ kahvi
 tea 
 talo
 netti lisäys
+Paikallinen ostoslisäys
